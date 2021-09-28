@@ -2,3 +2,5 @@ discord.py[voice]
 python-dotenv
 requests
 youtube_dl
+PyNaCl
+google-api-python-client
